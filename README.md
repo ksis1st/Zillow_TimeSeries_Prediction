@@ -2,7 +2,7 @@
 
 ### Zliiow Ocala Zipcode Prediction -A Time Series Project
 
-![](images\Map_Ocala.png)		
+![](Images\Map_Ocala.png)		
 
 #### Overview:
 
